@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Unofficial Beachbody Fans Wiki"
+title: "Welcome to the Get in Shape Wiki"
 keywords: Beachbody programme reviews
 tags: [getting_started]
 sidebar: mydoc_sidebar
@@ -39,4 +39,4 @@ I'll admit the content is a little sparse right now. It takes time to write thes
 
 ## Read my reviews
 
-Right now I'm doing 30 Day Breakaway, an outdoor or treadmill running programme with made up of short 20-25 minute runs as well as resistance workouts. I will add more reviews soon. 
+Right now I'm doing 30 Day Breakaway, an outdoor or treadmill running programme with made up of short 20-25 minute runs as well as resistance workouts. I will add more reviews soon.
