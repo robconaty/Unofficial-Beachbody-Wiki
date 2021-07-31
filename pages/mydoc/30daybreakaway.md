@@ -1,6 +1,6 @@
 ---
 title: 30 Day Breakaway
-tags: [getting_started, formatting, content_types]
+tags: [running, cardio]
 keywords: pages, authoring, exclusion, frontmatter
 last_updated: May 18, 2021
 summary: 30 Day Breakaway is billed as a hybrid running and resistance training programme to prepare you to complete a 5k run. It includes both strength/weight training workouts and runs of 20-25 minutes across a training calendar designed to get you ready for race day. You can choose to run either outdoor by downloading guided audio training on your phone or indoor on a treadmill, in which case you can follow the trainer Idalis Velazquez on her runs through amazing natural settings.
