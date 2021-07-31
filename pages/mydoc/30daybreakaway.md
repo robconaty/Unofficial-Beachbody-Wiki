@@ -107,4 +107,6 @@ I think this could be the start of an excellent new franchise and hope that Beac
 
 
 ## Are you interested in choosing 30 Day Breakaway?
-If you want to you can access 30 Day Breakaway on a 14 Day free trial with BOD, please consider joining using my referral link.
+If you want to you can [access 30 Day Breakaway and (and 40 other workout programmes) on a 14 Day free trial with BOD](https://www.teambeachbody.com/shop/gb/d/beachbody-on-demand-BODStandalone?referringRepID=2608716), please consider joining using my referral link.
+
+Or join Beachbody with a [30 Day Breakaway Challenge Pack](https://www.teambeachbody.com/shop/gb/d/30DChallengePackAA?referringRepID=2608716).
