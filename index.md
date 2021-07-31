@@ -39,4 +39,4 @@ I'll admit the content is a little sparse right now. It takes time to write thes
 
 ## Read my reviews
 
-Right now I'm doing 30 Day Breakaway, an outdoor or treadmill running programme with made up of short 20-25 minute runs as well as resistance workouts. I will add more reviews soon.
+I've just added my first review after completing [30 Day Breakaway](http://getinshape.wiki/mydoc_30daybreakaway.html), an outdoor or treadmill running programme with made up of short 20-25 minute runs as well as resistance workouts. I will add more reviews soon.
