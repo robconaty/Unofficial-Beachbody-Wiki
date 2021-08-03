@@ -2,10 +2,10 @@
 title: Body Beast
 tags: [resistance]
 keywords:
-last_updated: May 18, 2021
+last_updated: Aug 03, 2021
 summary: Body Beast is a genuinely unique muscle building workout programme that promises to get you lean and chiselled inside of 90 days. That's the pitch anyway. Read on to find out how well it lives up to expectations.  
 sidebar: mydoc_sidebar
-permalink: mydoc_30daybreakaway.html
+permalink: mydoc_bodybeast.html
 folder: mydoc
 ---
 
