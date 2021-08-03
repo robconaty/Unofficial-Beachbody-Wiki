@@ -29,7 +29,7 @@ entries:
       url: /mydoc_30daybreakaway.html
       output: web, pdf
 
-        folderitems:
-        - title: Body Beast
-          url: /mydoc_bodybeast.html
-          output: web, pdf
+    folderitems:
+    - title: Body Beast
+      url: /mydoc_bodybeast.html
+      output: web, pdf
