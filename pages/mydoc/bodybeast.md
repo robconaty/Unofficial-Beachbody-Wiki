@@ -25,14 +25,14 @@ So what does dynamic set training entail. Here are a few examples (text by Beach
 
 | Beast vocabulary  | Translation                                                                                                                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A Single Set      | 1 exercise only**                                                                                                                                                             |
-| **A Super Set       | 2 exercise movements done back-to-back without rest.**                                                                                                                        |
-| **A Giant Set       | 3 exercise movements, done back-to-back, that all target the same muscle group.**                                                                                               |
-| **A Multi-Set       | 3 exercises that don’t target similar muscle groups.**                                                                                                                          |
-| **A Force Set       | 5 sets of 5 reps, with 10 seconds of rest between each set.   **                                                                                                                |
+| **A Single Set**      | 1 exercise only                                                                                                                                                             |
+| **A Super Set**       | 2 exercise movements done back-to-back without rest.                                                                                                                        |
+| **A Giant Set**       | 3 exercise movements, done back-to-back, that all target the same muscle group.                                                                                               |
+| **A Multi-Set**       | 3 exercises that don’t target similar muscle groups.                                                                                                                        |
+| **A Force Set**      | 5 sets of 5 reps, with 10 seconds of rest between each set.                                                                                                                  |
 | **A Progressive Set** | A pyramid that goes from high reps to low reps, takes a break, then back up to high reps. For example: 15 reps, 12 reps, 8 reps—90-second rest—then 8 reps, 12 reps, 15 reps. |
-| **A Combo Set   **    | Contains a compound exercise, which is any exercise that works more than one muscle group using more than one joint.                                                          |
-| **A Circuit Set **   | Involves moving from 1 exercise to another without rest.                                                                                                                      |
+| **A Combo Set**    | Contains a compound exercise, which is any exercise that works more than one muscle group using more than one joint.                                                          |
+| **A Circuit Set**   | Involves moving from 1 exercise to another without rest.                                                                                                                      |
 | **A Tempo Set**       | Holds a contraction for a given amount of time. For example, 6 seconds during the concentric action and 6 seconds during the eccentric action.                                |
 
 ## What I liked less about the programme
